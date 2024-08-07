@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "title": "The new Sun",
+      "author": "Gold Okafor",
+      "description": "The old sun left the earth in darkness",
+      "bookImage": "https://media.istockphoto.com/id/824800468/photo/sun-on-blue-sky-with-clouds.jpg?s=612x612&w=is&k=20&c=ZY1Q2wPQ-tBJA8Nsk6w-ceznGDW-gds6_RpqWMQVI1o=",
+      "id": "a052"
+    },
+    {
+      "id": "2001",
+      "title": "The dancing ",
+      "author": "Akolade Jeff",
+      "descrition": "The old sun left the earth in darkness",
+      "bookImage": "https://media.istockphoto.com/id/811247706/photo/children-grow-and-learn-with-the-power-of-their-imagination.jpg?s=612x612&w=is&k=20&c=z7QbujVqHURexVWKssqA69_WZ2JK61GTzJya8_nCORs="
+    }
+  ]
+}
